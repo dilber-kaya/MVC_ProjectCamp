@@ -1,3 +1,3 @@
 # MVC_ProjectCamp
 N-Tier Architecture 
-Bu proje 1-20 arasındaki videoları kapsamaktadır.
+This project contains 1 to 20 video progress. 
